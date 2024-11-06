@@ -45,13 +45,6 @@ ____________________________________________________
 - Main Program: Initializes the parsing process and reads expressions from the user.
 - ParseExpression: Parses each character in the expression, identifying the token type and value. It also logs each processing step for easier debugging.
 
-____________________________________________________
-### Setup and Installation
-
-#### Clone the Repository:
-
-* git clone https://github.com/your-username/TokenParser.git
-* cd TokenParser
 ___________________________________________________
 ### Build and Run the Project:
 
