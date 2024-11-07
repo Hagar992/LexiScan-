@@ -18,25 +18,25 @@ Enter an expression:
 #### for ( count = 1 ; count = x2 + 3.4e+6 ; count = count + 1 ) //outer loop
 
 Tokens:
-Token Type: KEYWORD, Value: for
-Token Type: SPECIAL_CHARACTER, Value: (
-Token Type: IDENTIFIER, Value: count
-Token Type: OPERATOR, Value: =
-Token Type: NUMERIC_CONSTANT, Value: 1
-Token Type: SPECIAL_CHARACTER, Value: ;
-Token Type: IDENTIFIER, Value: count
-Token Type: OPERATOR, Value: =
-Token Type: IDENTIFIER, Value: x2
-Token Type: OPERATOR, Value: +
-Token Type: NUMERIC_CONSTANT, Value: 3.4e+6
-Token Type: SPECIAL_CHARACTER, Value: ;
-Token Type: IDENTIFIER, Value: count
-Token Type: OPERATOR, Value: =
-Token Type: IDENTIFIER, Value: count
-Token Type: OPERATOR, Value: +
-Token Type: NUMERIC_CONSTANT, Value: 1
-Token Type: SPECIAL_CHARACTER, Value: )
-Token Type: COMMENT, Value: //outer loop
+- Token Type: KEYWORD, Value: for
+- Token Type: SPECIAL_CHARACTER, Value: (
+- Token Type: IDENTIFIER, Value: count
+- Token Type: OPERATOR, Value: =
+- Token Type: NUMERIC_CONSTANT, Value: 1
+- Token Type: SPECIAL_CHARACTER, Value: ;
+- Token Type: IDENTIFIER, Value: count
+- Token Type: OPERATOR, Value: =
+- Token Type: IDENTIFIER, Value: x2
+- Token Type: OPERATOR, Value: +
+- Token Type: NUMERIC_CONSTANT, Value: 3.4e+6
+- Token Type: SPECIAL_CHARACTER, Value: ;
+- Token Type: IDENTIFIER, Value: count
+- Token Type: OPERATOR, Value: =
+- Token Type: IDENTIFIER, Value: count
+- Token Type: OPERATOR, Value: +
+- Token Type: NUMERIC_CONSTANT, Value: 1
+- Token Type: SPECIAL_CHARACTER, Value: )
+- Token Type: COMMENT, Value: //outer loop
 
 
 ____________________________________________________
