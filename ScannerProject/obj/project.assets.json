@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\pro-Scaner\\ScannerProject\\ScannerProject.csproj",
-      "projectName": "ScannerProject",
-      "projectPath": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\pro-Scaner\\ScannerProject\\ScannerProject.csproj",
+      "projectUniqueName": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\ParserProject\\ParserProject.csproj",
+      "projectName": "ParserProject",
+      "projectPath": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\ParserProject\\ParserProject.csproj",
       "packagesPath": "C:\\Users\\NOUR  SOFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\pro-Scaner\\ScannerProject\\obj\\",
+      "outputPath": "C:\\Users\\NOUR  SOFT\\OneDrive - FEE-MU\\Desktop\\ParserProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NOUR  SOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
