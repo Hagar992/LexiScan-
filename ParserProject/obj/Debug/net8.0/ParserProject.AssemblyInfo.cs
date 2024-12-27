@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParserProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bfefa670bf46a37ae182128c03ba79857352d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParserProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParserProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
